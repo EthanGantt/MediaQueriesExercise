@@ -39,8 +39,8 @@ h1 {
   }
 
   @media (orientation: landscape) {
-    h1 {
-        display: flexbox;
+    body {
+        display: flex;
     }
   }
 
